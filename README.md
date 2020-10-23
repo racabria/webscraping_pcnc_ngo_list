@@ -13,3 +13,21 @@ Data Columns:
  - Website
  
  Output: CSV File
+
+Category:
+- Education - Supports Formal Schools/Students
+- Social Welfare and Development
+- Education - Formal School
+- Research
+- Culture and Arts
+- Religious
+- Others
+- Youth Development and Sports
+- Community Building/Development
+- Health – specialized
+- Education – Non-Formal/ALS
+- Health – public/community
+- Environment/Biodiversity
+- Education – Technical/Vocational
+- Enterprise Development/Livelihood
+- Disaster Relief and/or Rehabilitation
